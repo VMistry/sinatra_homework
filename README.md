@@ -1,0 +1,3 @@
+# Sinatra_Homework
+## Description
+This was setup on the 22nd of August 2018. For this we had to look up and understand the seven restful routes and implement it by creating a route for a specific topic. The topic could be animals, books, cars etc. The routes were used to help create and show data within a database, creating links to the main index and edit specific data within the database, either to update or delete data. The code had to be well structured and commented, explaining what all the requests were doing. The comments would show our understanding on each request and allows us to refer back to it when creating our first database. This would need to be finished on 23rd of August 2018, at 9.00am.
